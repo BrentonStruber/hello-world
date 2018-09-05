@@ -14,7 +14,7 @@
 
 <body>
 	<h1>Hello World!</h1>
-	<p>Testing twice</p>
+	<p>Removed - Test Three</p>
 	<p>We are testing out GitHub with this one.</p>
 </body>
 </html>

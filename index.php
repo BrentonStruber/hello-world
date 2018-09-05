@@ -15,6 +15,7 @@
 <body>
 	<h1>Hello World!</h1>
 	<p>Removed - Test Three</p>
+	<p>Added by 'new user'</p>
 	<p>We are testing out GitHub with this one.</p>
 </body>
 </html>
